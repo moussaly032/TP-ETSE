@@ -1,0 +1,78 @@
+header {
+    background-color: antiquewhite;
+}
+
+#titre {
+    margin-left: 6cm;
+    color: black
+}
+
+nav,
+ul {
+    gap: 15px;
+    justify-content: center;/
+}
+
+ul,
+li {
+    display: flex;
+}
+
+
+button {
+    display: flex;
+    height: 17px;
+    gap: 20px;
+    background-color: black;
+    border: none;
+    position: relative: top 40px;
+}
+
+
+button a {
+    text-decoration: none;
+    color: white;
+    margin-bottom: 100%;
+}
+
+button:hover {
+    transform: scale(1.0.1);
+    height: 30px;
+    margin-top: (500px);
+}
+
+#bureau {
+    width: 20px;
+    height: 20px;
+    margin-left: 5cm;
+}
+
+body {
+    background-color: antiquewhite;
+    color: black;
+}
+
+main {
+    justify-content: center;
+}
+
+main img {
+    width: 100%;
+    height: 10cm;
+}
+
+main img div {
+    display: flex;
+}
+
+i {
+    justify-content: center;
+    gap: 2cm;
+}
+
+footer {
+    height: 3cm;
+    display: flex;
+    justify-content: center;
+    gap: 4cm;
+}
